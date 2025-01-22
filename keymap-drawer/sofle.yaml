@@ -88,7 +88,7 @@ layers:
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - PG UP
   - END
-  - $$mdi:arrow-up-bold$$
+  - PG UP
   - HOME
   - {t: '-', s: _}
   - {t: '=', s: +}
